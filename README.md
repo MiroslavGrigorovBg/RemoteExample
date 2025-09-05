@@ -1,0 +1,2 @@
+# RemoteExample
+Only for tests
